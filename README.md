@@ -43,3 +43,21 @@ What is covered in this course?
   - Wisdom: Calculated per conact
 
 > 💡 Telephony and Call charges vary based on location
+
+## Amazon Connect Core Concepts
+
+- Contact Flows
+- Queues
+- Routing Profiles
+
+### Contact Flows
+
+Heart of contact center solution. Customer interaction from start to finish.
+
+### Queues
+
+A queue is where customers wait to be connected to a contact. You can have multiple queues for different purposes.
+
+### Routing Profiles
+
+A routing profile is a way to group agents and queues together. It determines what sorts of calls an agent can handle.
